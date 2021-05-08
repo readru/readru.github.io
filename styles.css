@@ -3,3 +3,9 @@ input[type='radio'] {
   width: 30px;
   vertical-align: middle;
 }
+.section-wrap {
+  background: #f1f8e9;
+  padding: 30px;
+  overflow: hidden;
+  text-align:center;
+}
