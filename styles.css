@@ -1,6 +1,7 @@
 input[type='radio'] {
   height: 30px;
   width: 30px;
+  vertical-align: middle;
 }
 
 .section-wrap {
